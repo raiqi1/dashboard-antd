@@ -8,11 +8,11 @@ function AppHeader() {
     <Header className="!bg-white border-b border-[#f1f1f1] flex items-center justify-between">
       <div className="flex items-center gap-2">
         <RadarChartOutlined className="text-3xl" />
-        <div>Academic</div>
+        <div>Hello</div>
       </div>
       <div className="flex items-center gap-2">
         <Avatar size={36} src="/profile.png" />
-        <div>John Doe</div>
+        <div>Raiqi</div>
       </div>
     </Header>
   )

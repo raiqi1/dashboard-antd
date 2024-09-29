@@ -94,7 +94,7 @@ export default function ListPage() {
             placeholder="Cari Universitas..."
             value={searchText}
             onChange={(e) => setSearchText(e.target.value)}
-            style={{ width: 200 }}
+            className=' mb-5 md:w-[200px]'
           />
         </Col>
         <Col>
@@ -102,7 +102,8 @@ export default function ListPage() {
             placeholder="Cari Negara..."
             value={searchCountry}
             onChange={(e) => setSearchCountry(e.target.value)}
-            style={{ width: 200 }}
+            className=' mb-5 md:w-[200px]'
+
           />
         </Col>
         <Col>
