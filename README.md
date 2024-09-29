@@ -48,9 +48,6 @@ npm run dev
 
 Aplikasi akan berjalan dalam mode pengembangan. Secara default, Anda bisa mengakses aplikasi di browser melalui [http://localhost:3000](http://localhost:3000).
 
-## Konfigurasi Tambahan
-
-(Tambahkan bagian ini jika ada konfigurasi khusus yang diperlukan seperti variabel lingkungan atau pengaturan lainnya.)
 
 ## Teknologi yang Digunakan
 
