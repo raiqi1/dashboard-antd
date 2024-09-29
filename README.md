@@ -54,5 +54,6 @@ Aplikasi akan berjalan dalam mode pengembangan. Secara default, Anda bisa mengak
 
 ## Teknologi yang Digunakan
 
-- [Next.js](https://nextjs.org/) (contoh teknologi yang digunakan)
+- [Ant Design](https://ant.design/) 
+- [Next.js](https://nextjs.org/) 
 
